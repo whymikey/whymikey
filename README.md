@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="50%">
 
 # Я **Даниил Золотарёв** <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px">
 
@@ -17,7 +17,7 @@
 
 **Frontend:** React, Tailwind CSS, Vite, Zustand, Framer Motion
 
-**Языки:** TypeScript, JavaScript, Go
+**Языки:** TypeScript, JavaScript
 
 **Архитектура:** Feature-Sliced Design (FSD), BEM
 
@@ -28,9 +28,9 @@
 ---
 
 </td>
-<td align="center" width="40%">
+<td align="center" width="50%">
 
-<img src="https://i.gifer.com/1Gjj.gif" width="350" height="450" alt="Profile Image"/>
+<img src="https://i.gifer.com/1Gjj.gif" width="100%" height="100%" alt="Profile Image"/>
 
 </td>
   </tr>
